@@ -53,4 +53,12 @@
 # 3.	General Overview
   
   This project is a complete automated system for a furniture company that has 4 branches. Administrator can add new branches. 
+  
+  4. How to run?
+  
+  javac Company.java Branch.java BranchEmployees.java Administrator.java 
+        Customers.java BookCases.java MeetingTables.java modelNames.java 
+        OfficeCabinets.java OfficeChairs.java OfficeDesks.java Sellings.java menu.java 
+        homework.java Wrapper.java
+  java homework
         
